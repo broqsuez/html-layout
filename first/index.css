@@ -1,0 +1,33 @@
+/* RESET */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*BEGIN STYLEZ */
+.header {
+    background-color: #444444;;
+    height: 20vh;
+    padding-top: 2.25vh;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+.middle {
+    width: 75%;
+    min-height: 70vh;
+    margin: 0 auto;
+    background-color: #EFEFEF;
+
+}
+.bottom {
+    width: 75%;
+    min-height: 10vh;
+    margin: 0 auto;
+    background-color: #222222;
+}
+body {
+    background-color: #D8D8D8;
+}
